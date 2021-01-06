@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Init from './Algorithms/Init';
+import Init from './Core/Algorithms/Init';
 
 function App() {
   return (
